@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Kaggle credentials & downloaded data
+kaggle.json
+stores-area-and-sales-data/
+*.csv
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jovian project files
+.jovian/
+.jovianrc
